@@ -1,16 +1,33 @@
-## Hi there 👋
+```bash
+# Nikhil's Terminal 👨‍💻
+# Aspiring Web Developer | AI/ML Enthusiast
+# CLI lover | Workflow optimizer
 
-<!--
-**nikhilm7315/nikhilm7315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ whoami
+> Nikhil — resilient learner, curious builder, and CLI explorer
 
-Here are some ideas to get you started:
+$ ls interests/
+> web-development  ai-ml  mac-optimization  vs-code-tricks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat skills.txt
+> Languages: C, Python, JavaScript
+> Tools: Git, VS Code, Codespaces, Mac utilities
+> Strengths: Debugging, troubleshooting, workflow hacks
+
+$ echo "Current Projects"
+> Portfolio website refinement
+> Exploring intelligent systems
+> Hands-on coding experiments
+
+$ git status
+> On branch learning
+> Changes to be committed: growth, persistence, curiosity
+
+$ ping github.com
+> Connected! 🚀
+
+$ curl social-links.txt
+> LinkedIn: https://www.linkedin.com/in/nikhilmishra7315
+> Twitter:  https://twitter.com/nikhilmishra_02
+> Portfolio: https://YOUR_PORTFOLIO_URL
+> GitHub:   https://github.com/nikhilm7315
