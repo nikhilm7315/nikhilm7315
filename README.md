@@ -4,9 +4,6 @@
 [![Mac Optimizer](https://img.shields.io/badge/Mac-Optimizer-silver?style=for-the-badge&logo=apple)](https://github.com/YOUR_USERNAME)
 
 ```bash
-> echo "Profile Views: ![Views](https://komarev.com/ghpvc/?username=nikhilm7315&color=yellow)"
-
-
 # Nikhil's Terminal 👨‍💻
 # Aspiring Web Developer | AI/ML Enthusiast
 # CLI lover | Workflow optimizer
@@ -38,3 +35,6 @@ $ curl social-links.txt
 > Twitter:  https://twitter.com/nikhilmishra_02
 > Portfolio: https://YOUR_PORTFOLIO_URL
 > GitHub:   https://github.com/nikhilm7315
+
+$gh-profile --views
+![Views](https://komarev.com/ghpvc/?username=nikhilm7315&color=blue)
