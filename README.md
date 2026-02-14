@@ -9,7 +9,8 @@
 # CLI lover | Workflow optimizer
 
 $ whoami
-> Nikhil — 1st year engineering student, resilient learner, curious builder, and CLI explorer
+> Nikhil — 1st year engineering student, resilient learner, curious builder, and
+           CLI explorer
 
 $ ls interests/
 > web-development  ai-ml  mac-optimization
