@@ -4,7 +4,6 @@
 [![Mac Optimizer](https://img.shields.io/badge/Mac-Optimizer-silver?style=for-the-badge&logo=apple)](https://github.com/YOUR_USERNAME)
 
 ```bash
-```bash
 $ gh-profile --views
 ![Views](https://komarev.com/ghpvc/?username=nikhilm7315&color=blue)
 
