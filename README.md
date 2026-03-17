@@ -3,8 +3,7 @@
 [![AI/ML](https://img.shields.io/badge/AI%2FML-orange?style=for-the-badge&logo=python)](https://github.com/YOUR_USERNAME)
 [![Mac Optimizer](https://img.shields.io/badge/Mac-Optimizer-silver?style=for-the-badge&logo=apple)](https://github.com/YOUR_USERNAME) 
 
-<br clear = "both">
-<img src="https://raw.githubusercontent.com/idaxon/idaxon/output/snake.svg" alt="Snake animation" />
+
 
 ```bash
 # Nikhil's Terminal 👨‍💻
@@ -39,3 +38,6 @@ $ curl social-links.txt
 > Portfolio: https://nikhil-portfolio-sage.vercel.app/
 > GitHub:   https://github.com/nikhilm7315
 ```
+
+<br clear = "both">
+<img src="https://raw.githubusercontent.com/idaxon/idaxon/output/snake.svg" alt="Snake animation" />
