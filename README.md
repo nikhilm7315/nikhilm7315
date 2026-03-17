@@ -1,7 +1,10 @@
 [![CLI Lover](https://img.shields.io/badge/CLI-Lover-black?style=for-the-badge&logo=gnu-bash)](https://github.com/nikhilm7315)
 [![Web Dev](https://img.shields.io/badge/Web-Dev-blue?style=for-the-badge&logo=javascript)](https://github.com/YOUR_USERNAME)
 [![AI/ML](https://img.shields.io/badge/AI%2FML-orange?style=for-the-badge&logo=python)](https://github.com/YOUR_USERNAME)
-[![Mac Optimizer](https://img.shields.io/badge/Mac-Optimizer-silver?style=for-the-badge&logo=apple)](https://github.com/YOUR_USERNAME)
+[![Mac Optimizer](https://img.shields.io/badge/Mac-Optimizer-silver?style=for-the-badge&logo=apple)](https://github.com/YOUR_USERNAME) 
+
+<br clear = "both">
+<img src="https://raw.githubusercontent.com/idaxon/idaxon/output/snake.svg" alt="Snake animation" />
 
 ```bash
 # Nikhil's Terminal 👨‍💻
