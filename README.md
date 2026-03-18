@@ -40,6 +40,3 @@ $ curl social-links.txt
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/nikhilm7315/nikhilm7315/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/nikhilm7315/nikhilm7315/output/snake.svg#gh-dark-mode-only)
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/nikhilm7315/nikhilm7315/output/snake.svg" alt="Snake animation" />
