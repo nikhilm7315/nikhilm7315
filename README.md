@@ -40,4 +40,4 @@ $ curl social-links.txt
 ```
 
 <br clear = "both">
-<img src="https://raw.githubusercontent.com/idaxon/idaxon/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nikhilm7315/nikhilm7315/output/snake.svg" alt="Snake animation" />
