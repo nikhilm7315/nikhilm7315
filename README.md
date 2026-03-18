@@ -39,5 +39,3 @@ $ curl social-links.txt
 > GitHub:   https://github.com/nikhilm7315
 ```
 
-<br clear = "both">
-<img src="https://raw.githubusercontent.com/nikhilm7315/nikhilm7315/output/snake.svg" alt="Snake animation" />
