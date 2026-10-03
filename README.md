@@ -1,6 +1,5 @@
-[![CLI Lover](https://img.shields.io/badge/CLI-Lover-black?style=for-the-badge&logo=gnu-bash)](https://github.com/nikhilm7315)
-[![Web Dev](https://img.shields.io/badge/Web-Dev-blue?style=for-the-badge&logo=javascript)](https://github.com/YOUR_USERNAME)
-[![AI/ML](https://img.shields.io/badge/AI%2FML-orange?style=for-the-badge&logo=python)](https://github.com/YOUR_USERNAME)
+(https://github.com/nikhilm7315)
+
 
 
 
