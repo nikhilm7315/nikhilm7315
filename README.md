@@ -1,12 +1,5 @@
-(https://github.com/nikhilm7315)
-
-
-
-
 ```bash
 # Nikhil's Terminal 👨‍💻
-# Aspiring Web Developer | AI/ML Enthusiast
-# CLI lover | Workflow optimizer
 
 $ whoami
 > Nikhil — 1st year engineering student, resilient learner, curious builder, and
@@ -16,12 +9,7 @@ $ ls interests/
 > web-development  ai-ml
 
 $ cat skills.txt
-> Languages: C, JavaScript, Beginner in Python
-> Tools: Git, VS Code, Codespaces, Mac utilities
-
-$ echo "Current Projects"
-> Portfolio website refinement
-> Hands-on coding experiments
+> Languages: C, C++, JavaScript
 
 $ git status
 > On branch learning
